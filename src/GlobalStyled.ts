@@ -8,8 +8,10 @@ export default createGlobalStyle`
     font-family: 'Nunito', sans-serif;
     box-sizing:  border-box;
 }
+ 
 body {
-        font-family: 'Nunito', sans-serif;
+        @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
+        font-family: 'Montserrat', sans-serif;
         margin: 0;
         padding: 0;
         background-color: #F2B6C3;
