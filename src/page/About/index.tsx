@@ -24,13 +24,13 @@ export const About = () => {
           </p>
 
           <p>
-           Eliane Vilarim começou a sua trajetória há 10 anos quando trabalhava
+            Eliane Vilarim começou a sua trajetória há 10 anos quando trabalhava
             de vendedora em uma grande loja de cosméticos e perfumaria de um
             Shopping Center. Lá, para agradar as clientes, oferecia o serviço de
             limpeza da sobrancelha.
           </p>
           <p>
-           Eliane Vilarim começou a sua trajetória há 10 anos quando trabalhava
+            Eliane Vilarim começou a sua trajetória há 10 anos quando trabalhava
             de vendedora em uma grande loja de cosméticos e perfumaria de um
             Shopping Center. Lá, para agradar as clientes, oferecia o serviço de
             limpeza da sobrancelha.
@@ -38,9 +38,11 @@ export const About = () => {
         </S.DivOneColumn>
 
         <div>
-        <Slied />
+          <S.H3>Meus resultados (:</S.H3>
+          <Slied />
         </div>
       </S.SectionTwo>
+
       <Footer />
     </S.Container>
   );

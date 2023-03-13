@@ -82,6 +82,15 @@ export const H2  = styled.h2`
     margin-left: 6%;
     padding-bottom: 2%;
 `
+export const H3  = styled.h3`
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: #333;
+    margin-top: 3%;
+    margin-left: 6%;
+    padding-bottom: 2%;
+`
 
 export const DivOneColumn = styled.div`
     display: flex;
